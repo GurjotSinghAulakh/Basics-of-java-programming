@@ -1,5 +1,9 @@
 package javaFXoppgaver;
 
+/*
+  * NB! Use jdk 1.8 (version 8 of java)
+*/
+
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
