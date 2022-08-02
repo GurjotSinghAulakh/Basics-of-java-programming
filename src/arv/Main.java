@@ -2,6 +2,10 @@ package arv;
 
 import java.util.ArrayList;
 
+/**
+ * It creates a list of persons, adds a student and an employee to the list, and then prints out the
+ * school for each person in the list
+ */
 public class Main {
     public static void main(String[] args) {
         ArrayList<Person> personer = new ArrayList<>();

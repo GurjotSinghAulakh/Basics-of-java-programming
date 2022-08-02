@@ -1,5 +1,8 @@
 package arv;
 
+/**
+ * Ansatt extends Person, and adds a fagfelt and ansattnr
+ */
 public class Ansatt extends Person{
     private String fagfelt;
     private int ansattnr;
@@ -27,16 +30,29 @@ public class Ansatt extends Person{
         this.ansattnr = ansattnr;
     }
 
+    /**
+     * It returns the string "OsloMet"
+     * 
+     * @return "OsloMet"
+     */
     @Override
     String getSkole() {
         return "OsloMet";
     }
 
+    /**
+     * The function `skrivSkole()` prints the school of the student
+     */
     @Override
     public void skrivSkole() {
         System.out.println("Skole: " + getSkole());
     }
 
+    /**
+     * The toString() method returns a string representation of the object
+     * 
+     * @return The toString method is being returned.
+     */
     @Override
     public String toString() {
         return "Ansatt: \n" + super.toString() + ", Fagfelt: " + fagfelt + ", Ansattnr: " + ansattnr + "\n";

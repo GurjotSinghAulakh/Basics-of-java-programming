@@ -1,5 +1,9 @@
 package arv;
 
+/**
+ * It's a class that represents a person, and it has a method that returns the school the person is
+ * attending
+ */
 public abstract class Person {
     private String navn;
     private int alder;
@@ -38,6 +42,11 @@ public abstract class Person {
         this.email = email;
     }
 
+    /**
+     * It returns a string representation of the object
+     * 
+     * @return The method returns a string with the name, age and email of the person.
+     */
     @Override
     public String toString() {
         return "Navn: " + navn + ", Alder: " + alder + ", Email: " + email;
