@@ -1,4 +1,4 @@
-package introKlasserOgObjekter1;
+package introklasserogobjekter1;
 
 import javax.swing.JOptionPane;
 
