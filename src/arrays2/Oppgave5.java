@@ -1,7 +1,5 @@
 package arrays2;
 
-import static javax.swing.JOptionPane.showMessageDialog;
-
 /**
  * It prints out the average rating for each movie
  */
