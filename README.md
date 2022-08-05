@@ -1,7 +1,7 @@
 
 # Basics of JAVA programming
 
-Løsningsforsalg (Med Kommentarer) til oppgaver i [DAPE1400-1 20H Programmering](https://student.oslomet.no/studier/-/studieinfo/emne/DAPE1400/2020/HØST) ved OsloMet 
+Løsningsforsalg (Med Kommentarer) til oppgaver i [DAPE1400-1 21H Programmering](https://student.oslomet.no/studier/-/studieinfo/emne/DAPE1400/2020/HØST) ved OsloMet 
 
 
 
